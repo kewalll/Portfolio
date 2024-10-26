@@ -18,3 +18,7 @@ A responsive portfolio website showcasing my projects, skills, and professional 
   - Framer Motion
 - **Hosting**: 
   - Deployed using Vercel
+
+## Live Demo
+
+You can view the live version of the portfolio https://kewalnanavati.vercel.app/.
