@@ -1,8 +1,14 @@
-# React + Vite
+#Portfolio Website
+A responsive portfolio website showcasing my projects, skills, and professional experiences. This website is designed to highlight my journey as a full stack developer with a focus on user experience and modern web technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features
+Responsive Design: Works seamlessly on different screen sizes (mobile, tablet, and desktop).
+Project Showcase: Displays all projects with detailed descriptions and GitHub links.
+Interactive Elements: Includes smooth animations and transitions to enhance user engagement.
+Contact Section: Includes email, LinkedIn, GitHub, and other social links for easy communication.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Tech Stack
+Front-End: React.js, Tailwind CSS
+Animations: Framer Motion
+Hosting: Deployed using Vercel
+Live-link: 
